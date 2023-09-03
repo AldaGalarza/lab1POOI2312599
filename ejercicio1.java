@@ -64,12 +64,12 @@ public class Main
 	     System.out.println("****");
 	       
 	   // Respuesta: &&&&
-       //            ****
+           //            ****
        
        
-       // *1 f*
+           // *1 f*
        
-       int a1=100; int a2=200;
+           int a1=100; int a2=200;
 	    
 	   if (a1>100 && a2<=200)
 	     System.out.println(a1+" "+a2+" "+(a1+a2));
@@ -104,12 +104,12 @@ public class Main
 	     System.out.println("&&&&");
 	   
 	   // Respuesta: ####
-       //            ****
+           //            ****
        
        
-       // *1 i*
+           // *1 i*
        
-       int x=1, y=2, z=3;
+           int x=1, y=2, z=3;
 	    
 	   if ('x' > 'y' || 66 > (int)('A'))
 	     System.out.println("#*#");
@@ -119,14 +119,14 @@ public class Main
 	   
 	   // *1 j*
 	   
-	    int x=1, y=2, z=3;
+	   int x=1, y=2, z=3;
 	    
-	    if (x < z)
-	      System.out.println("*");
-	    else if (x==z)
-	      System.out.println("&");
-	    else
-	      System.out.println("$");
+	   if (x < z)
+	     System.out.println("*");
+	   else if (x==z)
+	     System.out.println("&");
+	   else
+	     System.out.println("$");
 	      
 	   // Respuesta: *
 	      
